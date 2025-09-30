@@ -24,3 +24,8 @@ A simple Android Jetpack Compose project demonstrating **Row and Column layouts 
     - Child 3: weight 5 (purple)
 
 
+## How to Run the App
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/shanji361/RowColWeightSplit.git
